@@ -1,4 +1,4 @@
-# vuemisa
+# Quan ly nha hang su dung VueJS
 
 ## Project setup
 ```
