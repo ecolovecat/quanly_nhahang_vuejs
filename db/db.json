@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "Duy",
+      "email": "tranphuongduy0403@gmail.com",
+      "password": "123123"
+    },
+    {
+      "name": "Duy",
+      "email": "tranphuongduy0403@gmail.com",
+      "password": "123123",
+      "id": 2
+    },
+    {
+      "name": "fasfas",
+      "email": "chienhoang.hihi@gmail.com",
+      "password": "fasdfs",
+      "id": 3
+    },
+    {
+      "name": "chien hoang",
+      "email": "chienhoang.hihi@gmail.com",
+      "password": "okdafds",
+      "id": 4
+    },
+    {
+      "name": "fasfwdasf",
+      "email": "chienhoang.hihi@gmail.com",
+      "password": "fasfasdf",
+      "id": 5
+    },
+    {
+      "name": "duyduy",
+      "email": "tranphuongduy0403@gmail.com",
+      "password": "123",
+      "id": 6
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Burgur King",
+      "address": "Dong Nguyen 2",
+      "contact": "312312321",
+      "id": 1
+    },
+    {
+      "name": "KFC",
+      "address": "Ha Noi",
+      "contact": "0324383",
+      "id": 3
+    }
+  ]
+}
